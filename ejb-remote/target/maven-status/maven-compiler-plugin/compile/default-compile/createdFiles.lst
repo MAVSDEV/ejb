@@ -1,0 +1,4 @@
+com/baeldung/ejb/tutorial/HelloWorld.class
+com/baeldung/ejb/wildfly/TextProcessorBean.class
+com/baeldung/ejb/tutorial/HelloWorldBean.class
+com/baeldung/ejb/wildfly/TextProcessorRemote.class

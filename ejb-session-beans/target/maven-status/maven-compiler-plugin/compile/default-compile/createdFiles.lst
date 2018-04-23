@@ -1,0 +1,6 @@
+com/baeldung/ejb/stateless/EJBClient1.class
+com/baeldung/ejb/stateless/StatelessEJB.class
+com/baeldung/ejb/stateless/EJBClient2.class
+com/baeldung/ejb/stateful/StatefulEJB.class
+com/baeldung/ejb/stateful/EJBClient2.class
+com/baeldung/ejb/stateful/EJBClient1.class
